@@ -1,0 +1,16 @@
+To run my files is actually pretty easy if you have jupyter notebook.
+1. Download the datasets and put all files along with the .ipynb files
+   into the same folder
+2. Open jupyter notebook and upload the folder to the desired location
+   of your own
+3. To run the supervised learning one, please open Supervised.ipynb in
+   the sup folder
+4. Then run through all the blocks
+5. To run the semi-supervised learning one, please open 
+    Semi-supervised.ipynb in the semisup folder.
+6. Then run through all the blocks
+7. If you do not have jupyter notebook installed, you
+   may try to run each sentiment file because it
+   has built-in main functions; however, there is no guarantee
+   that it will compile or run accordingly. If you have trouble debugging
+   please download jupyter notebook.
